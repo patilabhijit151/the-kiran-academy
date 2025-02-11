@@ -7,7 +7,7 @@ public class homework_10_02_2025 {
 			 System.out.println("enter the number");
 			 
 			 int roundednumber= number - (number%5);
-			 System.out.println("nearest multiple is 5: "+roundednumber);
+			 System.out.println("nearest multiple of 5: "+roundednumber);
 		}
 
 	}
